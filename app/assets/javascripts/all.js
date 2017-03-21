@@ -1049,7 +1049,7 @@ function init_map(){
                 marker: {
                     address: gmMarkerAddress,
                     options: {
-                        icon: "images/map-marker.png"
+                        icon: "../../assets/map-marker.png"
                     }
                 },
                 map: {
